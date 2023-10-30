@@ -837,10 +837,6 @@ file = "config/openpartiesandclaims-server.toml"
 hash = "bcbb7414864bce4a6888a1674e6c6a453ac59fa8cefc1accc95b32e5372298d6"
 
 [[files]]
-file = "config/origins_server.json"
-hash = "35787403ed8a9b9dc4a6024a70bb1ab7639bba20fa8eeba6e27966365dcc16f8"
-
-[[files]]
 file = "config/oscimate_soulflame.json"
 hash = "182089ada479024af281259000065beae41a2a5a9cde0f2226ab2f0cdf75fdec"
 
@@ -1227,6 +1223,10 @@ hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "e76bbf692f778dae45cadb809cb0ab65632d7f6d57e9766cdfa8e4451603c919"
 
 [[files]]
 file = "config/yungsmenutweaks-fabric-1_20_1.toml"
@@ -2779,10 +2779,6 @@ metafile = true
 file = "mods/zombie-horse-spawn.pw.toml"
 hash = "2c401a32eec53fac0d43f3258dc4c736fc62a75ef22389e9b01e94b1e189763b"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "e76bbf692f778dae45cadb809cb0ab65632d7f6d57e9766cdfa8e4451603c919"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
