@@ -838,7 +838,7 @@ hash = "bcbb7414864bce4a6888a1674e6c6a453ac59fa8cefc1accc95b32e5372298d6"
 
 [[files]]
 file = "config/origins_server.json"
-hash = "5677dd17c2ffdd6276bf9a2c0040c43879b684cf335ac6dae88cbb9ab0f4ca9d"
+hash = "35787403ed8a9b9dc4a6024a70bb1ab7639bba20fa8eeba6e27966365dcc16f8"
 
 [[files]]
 file = "config/oscimate_soulflame.json"
@@ -1117,14 +1117,6 @@ file = "config/tia.json"
 hash = "ac66e81f4172c8398fcfd2024394518286abead79613e9df41631f409e0a45bc"
 
 [[files]]
-file = "config/trashslot-common.toml"
-hash = "3349153e9cb33227c5fd3b597fcea5ccbd480a6e5396b19004cbea07365ec433"
-
-[[files]]
-file = "config/trashslot-common.toml.bak1"
-hash = "0a6cc9c3df72abc431847e771413b91043b1b52051a3bced50849fb418b922f4"
-
-[[files]]
 file = "config/travelerstitles-fabric-1_20.toml"
 hash = "cc29964026fca4121919492493a4d2de89f82ba5d17d0993971133a3cbc63e9f"
 
@@ -1235,10 +1227,6 @@ hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "a9c7d0c69d485efec6ca308e02e6a37a7df9f16d742ba54c0825bae9c4770a38"
 
 [[files]]
 file = "config/yungsmenutweaks-fabric-1_20_1.toml"
@@ -1373,17 +1361,13 @@ file = "kubejs/startup_scripts/modpack_name.js"
 hash = "150948a64164e5a1a4fe4eada525d4b25fc308f156ea8568cf936b1a7144d8ee"
 
 [[files]]
-file = "kubejs/startup_scripts/unify_harvesting.js"
-hash = "75068823d095e2b80e5eee81b132cbe7f118e5d441070ea8cd913515e6b893c0"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
 file = "mods/allaybottle.pw.toml"
-hash = "9c63592028d71ac6b09fda2ee27e7c35713bfac1f465b4f390c988e01e31ad04"
+hash = "3e0894687a9b5b885023b89245e98bc41805e50b799ceb7d186ed4f358dcb62e"
 metafile = true
 
 [[files]]
@@ -1509,11 +1493,6 @@ metafile = true
 [[files]]
 file = "mods/blossom.pw.toml"
 hash = "152a951f540fa63ac47544adbf4658b3f1495971859c54236bbc3bc800186f85"
-metafile = true
-
-[[files]]
-file = "mods/bodies-bodies.pw.toml"
-hash = "a2adc95904d84c8d63c964f965827a1a34b413670a8b8deef1029ced76e93818"
 metafile = true
 
 [[files]]
@@ -2202,11 +2181,6 @@ hash = "4b8b027b8d8e2fc4db68f2377ca09c2722af2aeeb2dfe3eb7125b71fa01ab4c0"
 metafile = true
 
 [[files]]
-file = "mods/mythicmetals.pw.toml"
-hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
-metafile = true
-
-[[files]]
 file = "mods/name-tag-tweaks.pw.toml"
 hash = "a8c1acaceecd233adf7a839e90a71d9cf0f63d86cca60c4ea2b5f610dcf2f3d9"
 metafile = true
@@ -2805,6 +2779,10 @@ metafile = true
 file = "mods/zombie-horse-spawn.pw.toml"
 hash = "2c401a32eec53fac0d43f3258dc4c736fc62a75ef22389e9b01e94b1e189763b"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "e76bbf692f778dae45cadb809cb0ab65632d7f6d57e9766cdfa8e4451603c919"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
