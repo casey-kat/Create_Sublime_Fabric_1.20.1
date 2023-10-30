@@ -1,0 +1,13 @@
+name = "Banner Flags"
+filename = "banner-flags-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cCStmVIN/versions/23jqd9TK/banner-flags-2.0.jar"
+hash-format = "sha1"
+hash = "6b84def94d1e62eb6a171040d218f8441f3e9576"
+
+[update]
+[update.modrinth]
+mod-id = "cCStmVIN"
+version = "23jqd9TK"

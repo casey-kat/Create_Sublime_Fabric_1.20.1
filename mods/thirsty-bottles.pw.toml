@@ -1,0 +1,13 @@
+name = "Thirsty Bottles"
+filename = "ThirstyBottles-Fabric-1.20.1-7.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F2F7kDiU/versions/kiaW5F7h/ThirstyBottles-Fabric-1.20.1-7.0.2.jar"
+hash-format = "sha1"
+hash = "5050c0308eaf4d1b5c9bf0790110310c655f95ed"
+
+[update]
+[update.modrinth]
+mod-id = "F2F7kDiU"
+version = "kiaW5F7h"

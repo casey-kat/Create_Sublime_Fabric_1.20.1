@@ -1,0 +1,13 @@
+name = "Village Nullifier: Terralith"
+filename = "village-nullifier-terralith-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xNIFYCxF/versions/Vw3X0vDU/village-nullifier-terralith-1.0.1.jar"
+hash-format = "sha1"
+hash = "41d32bfacc551367c31c3f8cb16d30b9c7b56ac0"
+
+[update]
+[update.modrinth]
+mod-id = "xNIFYCxF"
+version = "Vw3X0vDU"

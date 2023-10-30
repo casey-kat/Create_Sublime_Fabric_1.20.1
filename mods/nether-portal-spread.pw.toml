@@ -1,0 +1,13 @@
+name = "Nether Portal Spread"
+filename = "netherportalspread-1.20.1-7.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z7UX4SHt/versions/iGhOTA4s/netherportalspread-1.20.1-7.5.jar"
+hash-format = "sha1"
+hash = "b201d946ebd84f4051db3315a31d5044fc892815"
+
+[update]
+[update.modrinth]
+mod-id = "z7UX4SHt"
+version = "iGhOTA4s"

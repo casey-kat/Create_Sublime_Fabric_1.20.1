@@ -1,0 +1,13 @@
+name = "Potion Cauldron"
+filename = "potioncauldron-1.0.0-beta.2+mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yTSyrZpM/versions/dCvhxl6x/potioncauldron-1.0.0-beta.2%2Bmc1.20.jar"
+hash-format = "sha1"
+hash = "719a91ea66d056748bfc7034573ff3d3cbac0017"
+
+[update]
+[update.modrinth]
+mod-id = "yTSyrZpM"
+version = "dCvhxl6x"

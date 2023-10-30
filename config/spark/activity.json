@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "casey_kat",
+      "uniqueId": "91f01d52-ae94-4f8d-a3fd-a78954086f63"
+    },
+    "time": 1698629503345,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/YoXE95yQuH"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "casey_kat",
+      "uniqueId": "91f01d52-ae94-4f8d-a3fd-a78954086f63"
+    },
+    "time": 1698625179853,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/QHzA7i34da"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "casey_kat",
+      "uniqueId": "91f01d52-ae94-4f8d-a3fd-a78954086f63"
+    },
+    "time": 1698623565005,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/rs6UTpOWPy"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+name = "TooManyOriginsMinus"
+filename = "toomanyoriginsminus-1.0.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4DZN6MoU/versions/o8a12x59/toomanyoriginsminus-1.0.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "993d2fcd96fd838e21ccf90237eacefb8e48dcef"
+
+[update]
+[update.modrinth]
+mod-id = "4DZN6MoU"
+version = "o8a12x59"

@@ -1,0 +1,13 @@
+name = "Creeper AI Updated"
+filename = "creeperaiupdated-fabric-1.5.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YnAkda0q/versions/z9CyKuJg/creeperaiupdated-fabric-1.5.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "0ee697026a5d76b501997df0707c5b78f3efface"
+
+[update]
+[update.modrinth]
+mod-id = "YnAkda0q"
+version = "z9CyKuJg"

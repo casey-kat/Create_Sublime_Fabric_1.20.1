@@ -1,0 +1,64 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "general": {
+    "creative_tab": true,
+    "assets_depend_on_loaded_packs": true,
+    "save_debug_resources": false,
+    "debug_packet": false
+  },
+  "types": {
+    "wood_type": {
+      "cinderscapes.scorched": true,
+      "cinderscapes.umbral": true,
+      "deeperdarker.echo": true,
+      "snifferplus.stone_pine": true,
+      "terrestria.cypress": true,
+      "terrestria.hemlock": true,
+      "terrestria.rainbow_eucalyptus": true,
+      "terrestria.redwood": true,
+      "terrestria.japanese_maple": true,
+      "terrestria.rubber": true,
+      "terrestria.willow": true,
+      "terrestria.sakura": true,
+      "terrestria.yucca_palm": true,
+      "traverse.fir": true
+    },
+    "cake": {
+      "createaddition.chocolate_cake": true,
+      "createaddition.honey_cake": true
+    },
+    "leaves_type": {
+      "blossom.flowering_oak": true,
+      "deeperdarker.echo": true,
+      "snifferplus.stone_pine": true,
+      "terrestria.cypress": true,
+      "terrestria.hemlock": true,
+      "terrestria.rainbow_eucalyptus": true,
+      "terrestria.redwood": true,
+      "terrestria.japanese_maple": true,
+      "terrestria.rubber": true,
+      "terrestria.willow": true,
+      "terrestria.sakura": true,
+      "terrestria.yucca_palm": true,
+      "terrestria.dark_japanese_maple": true,
+      "terrestria.japanese_maple_shrub": true,
+      "terrestria.jungle_palm": true,
+      "traverse.red_autumnal": true,
+      "traverse.brown_autumnal": true,
+      "traverse.orange_autumnal": true,
+      "traverse.yellow_autumnal": true,
+      "traverse.fir": true
+    }
+  },
+  "entries": {
+    "wood_type": {
+      "farmersdelight.cabinet": true,
+      "twigs.table": true,
+      "infinitybuttons.plank_secret_button": true,
+      "create.window_pane": true,
+      "infinitybuttons.large_button": true,
+      "create.window": true
+    },
+    "leaves_type": {}
+  }
+}

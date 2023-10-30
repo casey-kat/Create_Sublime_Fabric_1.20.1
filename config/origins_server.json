@@ -1,0 +1,146 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "origins-classes:nitwit": {
+      "enabled": true
+    },
+    "origins:enderian": {
+      "enabled": true
+    },
+    "origins:human": {
+      "enabled": true
+    },
+    "origins_minus:mer": {
+      "enabled": true,
+      "origins_minus:water_breathing": true,
+      "origins_minus:swim_speed": true,
+      "origins_minus:water_vision": true,
+      "origins_minus:aqua_affinity": true,
+      "origins_minus:harvest_seagrass": true,
+      "origins_minus:edible_seagrass": true,
+      "origins:like_water": true
+    },
+    "origins_minus:dryad": {
+      "enabled": true,
+      "origins_minus:sunlight": true,
+      "origins_minus:no_hunger": true,
+      "origins_minus:vine_whip": true,
+      "origins_minus:bioluminescence": true,
+      "origins_minus:leaf_phasing": true,
+      "origins_minus:plant_fall_resistance": true
+    },
+    "origins:feline": {
+      "enabled": true
+    },
+    "origins:elytrian": {
+      "enabled": true
+    },
+    "origins:shulk": {
+      "enabled": true
+    },
+    "origins_minus:sanguine": {
+      "enabled": true,
+      "origins_minus:blood": true,
+      "origins_minus:no_hunger": true,
+      "origins_minus:frenzy": true,
+      "origins_minus:nightstalker": true
+    },
+    "origins_minus:starved": {
+      "enabled": true,
+      "origins_minus:hunger_prevent_death": true,
+      "origins_minus:fast_eating": true
+    },
+    "origins_minus:voidthing": {
+      "enabled": true,
+      "origins_minus:blink": true,
+      "origins_minus:reach": true,
+      "origins_minus:wraparound": true,
+      "origins:ender_particles": true
+    },
+    "origins_minus:avian": {
+      "enabled": true,
+      "origins_minus:flap": true,
+      "origins_minus:glide": true,
+      "origins_minus:like_air": true
+    },
+    "origins:merling": {
+      "enabled": true
+    },
+    "origins:phantom": {
+      "enabled": true
+    },
+    "origins:arachnid": {
+      "enabled": true
+    },
+    "origins:blazeborn": {
+      "enabled": true
+    },
+    "origins:avian": {
+      "enabled": true
+    },
+    "origins_minus:steadfast": {
+      "enabled": true,
+      "origins_minus:brace": true,
+      "origins_minus:rescue": true
+    },
+    "origins_minus:wildling": {
+      "enabled": true,
+      "origins_minus:energetic": true,
+      "origins_minus:bound": true,
+      "origins_minus:fall_immunity": true,
+      "origins_minus:bounce": true
+    },
+    "origins_minus:hellspawn": {
+      "enabled": true,
+      "origins_minus:fire_immunity": true,
+      "origins_minus:lava_vision": true,
+      "origins_minus:lava_swimming": true,
+      "origins_minus:lava_fall_immunity": true,
+      "origins:flame_particles": true
+    },
+    "origins_minus:weaver": {
+      "enabled": true,
+      "origins_minus:echolocation": true,
+      "origins_minus:rappel": true,
+      "origins_minus:suffocation_immunity": true,
+      "origins_minus:web_affinity": true,
+      "origins:master_of_webs_no_slowdown": true
+    },
+    "toomanyorigins:hare": {
+      "enabled": true,
+      "toomanyoriginsminus:hot_hops": true,
+      "toomanyorigins:waterskipper": true,
+      "toomanyorigins:extra_step_height": true,
+      "toomanyorigins:prevent_movement_checks": true,
+      "toomanyorigins:cancel_out_sprint_disable_on_hit": true
+    },
+    "toomanyorigins:withered": {
+      "enabled": true,
+      "toomanyorigins:affliction": true,
+      "toomanyorigins:soul_siphon": true,
+      "origins:nether_spawn": true,
+      "toomanyorigins:hell_raised": true,
+      "toomanyorigins:spirit_strider": true,
+      "toomanyorigins:deathly_digestion": true,
+      "toomanyorigins:unholy": true
+    },
+    "toomanyorigins:hisskin": {
+      "enabled": true,
+      "toomanyoriginsminus:buildup": true,
+      "toomanyoriginsminus:aerial_stability": true
+    },
+    "toomanyorigins:swarm": {
+      "enabled": true,
+      "toomanyoriginsminus:hover": true,
+      "toomanyorigins:beekeeper": true
+    },
+    "toomanyorigins:dragonborn": {
+      "enabled": true,
+      "toomanyorigins:draconic_breath": true,
+      "toomanyorigins:block_synergistics": true,
+      "toomanyorigins:weaponry_pride": true,
+      "toomanyorigins:zenith_scales": true,
+      "toomanyorigins:rough_claws": true
+    }
+  }
+}

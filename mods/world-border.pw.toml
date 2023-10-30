@@ -1,0 +1,13 @@
+name = "World Border"
+filename = "worldborder-1.20.1-4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nN96GjON/versions/zyGsCxLo/worldborder-1.20.1-4.1.jar"
+hash-format = "sha1"
+hash = "9c779ec06ca2c746a6cf539b1ea4d3b00a452040"
+
+[update]
+[update.modrinth]
+mod-id = "nN96GjON"
+version = "zyGsCxLo"

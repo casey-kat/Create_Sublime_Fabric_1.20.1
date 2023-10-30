@@ -1,0 +1,13 @@
+name = "Netherite Horse Armor"
+filename = "netherite_horse_armor-0.4.6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I3pWDyqP/versions/D4zOi4l4/netherite_horse_armor-0.4.6-1.20.1.jar"
+hash-format = "sha1"
+hash = "770beeea457622a4146d59caace9c3478eb60885"
+
+[update]
+[update.modrinth]
+mod-id = "I3pWDyqP"
+version = "D4zOi4l4"

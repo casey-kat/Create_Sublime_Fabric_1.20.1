@@ -1,0 +1,13 @@
+name = "No Bed Explosions"
+filename = "nobedexplosions-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tTIie5hZ/versions/q4gyI0ky/nobedexplosions-1.1.0.jar"
+hash-format = "sha1"
+hash = "47b8373287be524c9e58971124839736e5090dc8"
+
+[update]
+[update.modrinth]
+mod-id = "tTIie5hZ"
+version = "q4gyI0ky"

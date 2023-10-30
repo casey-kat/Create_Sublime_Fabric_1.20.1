@@ -1,0 +1,185 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "simple"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
+				panda = true
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				pig = true
+				allay = true
+				skeleton = true
+				bat = true
+				frog = true
+				husk = true
+				camel = true
+				rabbit = true
+				silverfish = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				stray = true
+				turtle = true
+				wandering_trader = true
+				salmon = true
+				vex = true
+				goat = true
+				ocelot = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				phantom = true
+				evoker = true
+				glow_squid = true
+				warden = true
+				glow_item_frame = false
+				squid = true
+				snowball = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				ravager = true
+				donkey = true
+				fox = true
+				tropical_fish = true
+				chest_minecart = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				area_effect_cloud = true
+				zombified_piglin = true
+				blaze = true
+				cat = true
+				zombie = true
+				guardian = true
+				ghast = true
+				sheep = true
+				player = true
+				pufferfish = true
+				trident = true
+				wolf = true
+				villager = true
+				skeleton_horse = true
+				zombie_villager = true
+				tnt_minecart = true
+				block_display = true
+				elder_guardian = true
+				chest_boat = true
+				boat = true
+				polar_bear = true
+				painting = true
+				cave_spider = true
+				witch = true
+				cod = true
+				snow_golem = true
+				spider = true
+
+			[light_sources.settings.entities.fallingtrees]
+				tree = true
+
+			[light_sources.settings.entities.grapplemod]
+				grapplehook = true
+
+			[light_sources.settings.entities.spell_engine]
+				spell_projectile = true
+
+			[light_sources.settings.entities.mca]
+				male_zombie_villager = true
+				female_zombie_villager = true
+				female_villager = true
+				male_villager = true
+
+			[light_sources.settings.entities.deeperdarker]
+				sculk_centipede = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.sleep_tight]
+				bed_entity = true
+
+			[light_sources.settings.entities.naturalist]
+				deer = true
+				alligator = true
+				snail = true
+				rhino = true
+				bluejay = true
+				snake = true
+				catfish = true
+				robin = true
+				boar = true
+				tortoise = true
+				duck = true
+				butterfly = true
+				bear = true
+				sparrow = true
+				lizard = true
+				rattlesnake = true
+				canary = true
+				firefly = true
+				coral_snake = true
+				cardinal = true
+				lion = true
+				vulture = true
+				bass = true
+				giraffe = true
+				finch = true
+
+			[light_sources.settings.entities.mythicmounts]
+				courierbird = true
+				moth = true
+				dragon = true
+				griffon = true
+				archelon = true
+				geckotoalizard = true
+				acencia = true
+
+			[light_sources.settings.entities.valkyrienskies]
+				ship_mounting_entity = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				super_glue = true
+
+			[light_sources.settings.entities.wildlife]
+				mantaray = true
+				hammerhead_shark = true
+				stingray = true
+				sanddollar = true
+				glow_jellyfish = true
+				hermitcrab = true
+				anglerfish = true
+				horseshoecrab = true
+				seaurchin = true
+				clam = true
+				sparrow = true
+				starfish = true
+				lark = true
+				crab = true
+				seahorse = true
+

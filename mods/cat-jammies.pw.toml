@@ -1,0 +1,13 @@
+name = "Cat Jammies"
+filename = "cat-jammies-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VT8gfivf/versions/CyhSBzV7/cat-jammies-1.0.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "9d4bcf0d4c03babebc48d7070f7d74bab65fe7d4"
+
+[update]
+[update.modrinth]
+mod-id = "VT8gfivf"
+version = "CyhSBzV7"

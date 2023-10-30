@@ -1,0 +1,9 @@
+{
+	"remove_nametags": true,
+	"show_own_nametags": false,
+	"show_nametags_in_hidden_hud": false,
+	"hide_nametags_in_hidden_hud": false,
+	"hide_armor_stand_nametags_in_hidden_hud": false,
+	"nametag_text_shadow": false,
+	"nametag_opacity": 25.0
+}
