@@ -52,12 +52,21 @@
   },
   "entries": {
     "wood_type": {
-      "farmersdelight.cabinet": true,
       "twigs.table": true,
+      "another_furniture.table": true,
       "infinitybuttons.plank_secret_button": true,
-      "create.window_pane": true,
+      "another_furniture.flower_box": true,
+      "another_furniture.shelf": true,
       "infinitybuttons.large_button": true,
-      "create.window": true
+      "create.window": true,
+      "farmersdelight.cabinet": true,
+      "another_furniture.drawer": true,
+      "create.window_pane": true,
+      "dramaticdoors.short_door": true,
+      "another_furniture.shutter": true,
+      "dramaticdoors.tall_door": true,
+      "another_furniture.bench": true,
+      "another_furniture.chair": true
     },
     "leaves_type": {}
   }
