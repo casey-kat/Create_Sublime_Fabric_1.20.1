@@ -810,11 +810,7 @@ hash = "1ce156edd13da83bb8674fe0e9b91cbbdc3a4028baf7bea2bbaec2194412bfdd"
 
 [[files]]
 file = "config/nox.json"
-hash = "6ff2fc1be6ba7b0c47210c2f931ecf362fcdec3635d0a0617d1fd829733b626a"
-
-[[files]]
-file = "config/npcvariety.json5"
-hash = "1250c9264ed4c97fbb490aee0fa18ee01d1324f10531afa918a862706872c63b"
+hash = "70360a25c90c2d35b977303c612eea215a901d8399bd7974b30978f09dc69ab6"
 
 [[files]]
 file = "config/numismatic-overhaul.json5"
@@ -1105,10 +1101,6 @@ file = "config/terrestria/general.json"
 hash = "37b871cd3a0e56564ee751be6e3b6e1c6b49b0a34b4fe75448f572ce25d24236"
 
 [[files]]
-file = "config/thinair-common.toml"
-hash = "822b337e64726182d12ecd9ce49063c2ac6fb2557e6d30b6fc1201ae8bbcd9ee"
-
-[[files]]
 file = "config/tia.json"
 hash = "ac66e81f4172c8398fcfd2024394518286abead79613e9df41631f409e0a45bc"
 
@@ -1141,10 +1133,6 @@ file = "config/utilitybelt.json"
 hash = "8c354df30980e6da47829ddf33c3b9e6dd4658588c0ae8d002712350a9a144a3"
 
 [[files]]
-file = "config/vcinteraction/vcinteraction.properties"
-hash = "111d703caf89e0136e0e9d93fe7a265d436111d53ad44981e037bf67731c9962"
-
-[[files]]
 file = "config/villagersplus.json5"
 hash = "fb75746d07afcfa92cce7b3f844d52e20759280d4add117a5169d7c9a1055e3f"
 
@@ -1159,26 +1147,6 @@ hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
 [[files]]
 file = "config/visualworkbench-client.toml"
 hash = "34b0bec9bd8c11543ef15e0f939422bd18a849956c2c3f9c9176dd01ca8ced10"
-
-[[files]]
-file = "config/voicechat/translations.properties"
-hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
-
-[[files]]
-file = "config/voicechat/username-cache.json"
-hash = "85a47087f7b81a7246cec8eb7b2b830749becb2ce878f93b05cf3f3bd0f3d9a3"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "435fd3040343606ff7f3037996cefc227fcb8681e1ca8e3d230af6c80e3b91a5"
-
-[[files]]
-file = "config/voicechat/voicechat-server.properties"
-hash = "b971d2ccb54ae4e8ef99d5f0269738f23eb374533c4576a637cf8351df4c6e40"
-
-[[files]]
-file = "config/voicechat/voicechat-volumes.properties"
-hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/voidfog.json"
@@ -1311,10 +1279,6 @@ hash = "9d6a4220fb47edad0a49f7e1350ffda5deabd5e1d480fa54e7f37ae387da58d3"
 [[files]]
 file = "global_packs/required_resources/[1.3] Enhanced Boss Bars.zip"
 hash = "b27b9110c46ab42fd2ce34175e74600e36098b2d49dfa316d75430793213ea0d"
-
-[[files]]
-file = "global_packs/required_resources/eatinganimations++1.10.zip"
-hash = "43f41064f29d179f2e10092e238cbe6ea0cd07a818704feec941be4a86e5f8b5"
 
 [[files]]
 file = "global_packs/required_resources/glacial-indifference+120.zip"
@@ -1506,11 +1470,6 @@ hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
-file = "mods/creeper-ai-updated.pw.toml"
-hash = "48bb4daabf9e61eca08b256880ea804edcd7a7b851b6c4ede1a1e528f08aaa51"
-metafile = true
-
-[[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 hash = "5bd8931f3b97b474845ce9e638b69c56b41dac2ea89c35b13f7638fe55c3aaa8"
 metafile = true
@@ -1588,11 +1547,6 @@ metafile = true
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "3fab0faf851513090ce8ee932cdbb6f1ec7c2b68510457d41b21f176a43e750a"
-metafile = true
-
-[[files]]
-file = "mods/eating-animation.pw.toml"
-hash = "073795fff0829c88707bdd7774faa544034d6a6ea375f1366b5220047450cfc3"
 metafile = true
 
 [[files]]
