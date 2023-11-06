@@ -1890,11 +1890,6 @@ hash = "c82076ea15662442fc94952a826536f63ecaec8337b282b5b3889f7d9080e852"
 metafile = true
 
 [[files]]
-file = "mods/naturalist.pw.toml"
-hash = "68e53bbbabf572e5bb4efa066a15dcc92ce86ebb75d2bb477a5d8e6c560c533a"
-metafile = true
-
-[[files]]
 file = "mods/nether-3.0.pw.toml"
 hash = "147b6b0f10a870d77f49a494a62d0392ba47549d4e1bb9a09ccdcc4325afdb72"
 metafile = true
