@@ -1201,10 +1201,6 @@ file = "config/zombiehorsespawn.json5"
 hash = "f2ae2047e8264c7b33a1f841c26713ffe3822a2d671b92169ce6fe955a7af739"
 
 [[files]]
-file = "global_packs/required_data/Balance Wood Cutter MC 1.20.zip"
-hash = "c2552e4386674fd7ab6f0a1738496c6f25b4054ffbc360057bf17d63f99c210a"
-
-[[files]]
 file = "global_packs/required_data/Crafting+.zip"
 hash = "0675b903770928a54762bb332c63fce7655d2e71ea8ae4b6611dbce3397e91ed"
 
@@ -1225,10 +1221,6 @@ file = "global_packs/required_data/incendium_biomes_only.zip"
 hash = "c2d4aa42b131e5471ba22ca1c8df0bd5cce61000436337395484b0a177a846b7"
 
 [[files]]
-file = "global_packs/required_data/less-crafting-mc1.19-v0.1.zip"
-hash = "5cf8b86629a90b35b16bf2bf6b90382e7231d1dd29b9487a58c001090825c90c"
-
-[[files]]
 file = "global_packs/required_data/localized-fishing-tables-1.1.0.zip"
 hash = "ed2f756390c8bd5d55c08ad31257bcc6dcf523c995de21f3f7c77e754ee0e741"
 
@@ -1243,10 +1235,6 @@ hash = "3b5b1240a50e41dd95324273fb4b052e7251c011d930f0b5eaa4f5e36962bbc0"
 [[files]]
 file = "global_packs/required_resources/Andesite_Chests+Crafting_Table_1_18.zip"
 hash = "7ccc11c88f518f92fd0b4395fc2c2f9c694b2f4ad31d3bf3a7b3cdfab9b17e8b"
-
-[[files]]
-file = "global_packs/required_resources/Artisans_Armory_2-0.zip"
-hash = "c619b3998104309d9df62e71842e0db55b90fb9a08e67f5ea34703b58f0b578b"
 
 [[files]]
 file = "global_packs/required_resources/BetterEnderDragon-1.19.zip"
@@ -1335,18 +1323,8 @@ hash = "e03fd835108b433e522e4ed44a164df5bfb37139cbc20366f8d497db1621b244"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "86550f2ea052d6a90a665747f1983674d1c0207d243e4eac4702573589c4a0a3"
-metafile = true
-
-[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "5cd0b0cb8d2146d9c3e1cddd1058b965fb62dd57f689db26f074f7e3ee3dd357"
-metafile = true
-
-[[files]]
-file = "mods/better-safe-bed.pw.toml"
-hash = "669c31eb48d8b4ddad5a1d2a4ffdd914ef97a9f867458b022ae181f1b55639a2"
 metafile = true
 
 [[files]]
@@ -1720,11 +1698,6 @@ hash = "bcd7d721303a7aab552e135c23541e3665886050de5b0bdcdec4ba3a58952da6"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-revival.pw.toml"
-hash = "7143dc3137f2718a7b02346c55d47ac4a66e1e21690f571e6ca3c688133d94dd"
-metafile = true
-
-[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "5a403e5da101f647dc4a6794f3caaa19333ef538cf7107adb3e17ad12509be48"
 metafile = true
@@ -1937,11 +1910,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
-metafile = true
-
-[[files]]
-file = "mods/nox-renoxed.pw.toml"
-hash = "fdc7fe54b1359855479f9c84f674e3f3638a7784737c86ee2216fd58bcb1cc26"
 metafile = true
 
 [[files]]
